@@ -7,7 +7,10 @@ A simple site packaging personalized template
 **Note** that this seed project requires node v4.x.x or higher and npm 3.x.x.
 
 ```bash
-
+git clone https://github.com/nfjBill/k_webpack.git
+cd k_webpack
+npm i   # or `npm run reinstall` if you get an error
+npm start    # start app
 ```
 _Does not rely on any global dependencies._
 
